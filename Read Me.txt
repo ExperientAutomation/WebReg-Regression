@@ -1,0 +1,9 @@
+
+Config Property File update below values before running SSW and WebReg flows:
+
+
+1.Update each 'Flow code' and 'Flow Name'.
+
+2.Housing Flow and Exhibitor Block flows, update 'Arrival Date' and 'Departure Date' dates.
+
+3.Create new Exhibitor Company in ShowMan name and update in the update the same in Config file.

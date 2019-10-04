@@ -1,0 +1,37 @@
+showcode=TST000
+
+browser=Chrome
+
+flowpath=https://rdqawebreg.experientevent.com/Show
+flowpath_dontRun=https://uatregistration.experientevent.com/Show
+
+url=https://rdqashowman.experientevent.com/ShowSetupWizard620/FlowSummary.aspx
+
+ChromeFilePath=N:\\QA\\R&DQA\\Selenium\\Drivers\\chromedriver.exe
+webregexcelpath=N:\\QA\\R&DQA\\Selenium\\WebReg\\Automation_WebRegFlows.xlsx
+sswexcelpath=N:\\QA\\R&DQA\\Selenium\\WebReg\\Schedule and Estimation- Automation SSW.xlsx
+
+CCNumber=4111111111111111
+
+attflowcode=AUTATT10
+attflowname=Attendee Flow
+
+houflowcode=AUTOHOU1017
+houflowname=Housing Only
+
+uniflowcode=UNIAUTO1017
+uniflowname=Unified Flow
+
+exhiflowcode=EXH1017
+exhiflowname=Exhibitor Only
+
+exhiblkflowcode=EXBLK1017
+exhiblkflowname=Exhibitor Block
+
+companyName= Infinite Expo
+companyPassword=testtest
+
+houarrivaldate=04/13/2019
+houdepdate=04/15/2019
+flowopendate=01/12/2019
+flowenddate=08/12/2019
